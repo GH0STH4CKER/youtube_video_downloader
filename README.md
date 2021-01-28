@@ -6,6 +6,7 @@ Installing Modules :
 ```
 $ pip install colorama
 $ pip install pytube
+$ pip install pytube3
 ```
 if above line (pytube) doesn't work try following :
 ```
