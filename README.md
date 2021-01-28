@@ -11,14 +11,12 @@ if above line (pytube) doesn't work try following :
 ```
 $ pip install git+https://github.com/pytube/pytube
 ```
+# Cloning & Running the script
 ```
 $ git clone https://github.com/GH0STH4CKER/youtube_video_downloader.git
 $ cd youtube_video_downloader
 $ python3 youtube_downloader.py
 ```
-
-# Running
-
 <img src="https://github.com/GH0STH4CKER/youtube_video_downloader/blob/main/ytviddown.gif">
 
 <h2>Contact Me :</h2>
