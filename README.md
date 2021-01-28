@@ -1,10 +1,6 @@
 <h2>Python program to download youtube videos </h2>
 
-# Installation 
-
-<img src="https://github.com/GH0STH4CKER/youtube_video_downloader/blob/main/ytviddown.gif">
-
-# Running
+# Installation
 
 ```
 $ git clone https://github.com/GH0STH4CKER/youtube_video_downloader.git
@@ -20,6 +16,10 @@ if above line doesn't work try following :
 ```
 $ pip install git+https://github.com/pytube/pytube
 ```
+
+# Running
+
+<img src="https://github.com/GH0STH4CKER/youtube_video_downloader/blob/main/ytviddown.gif">
 
 <h2>Contact Me :</h2>
 <a href="https://t.me/Dimuth92"><img src="https://i.ibb.co/kX24Ry5/telegramiconpng.png" width="50" ></a>
