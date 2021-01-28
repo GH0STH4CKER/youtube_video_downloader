@@ -7,7 +7,7 @@ Installing Modules :
 $ pip install colorama
 $ pip install pytube
 ```
-if above line doesn't work try following :
+if above line (pytube) doesn't work try following :
 ```
 $ pip install git+https://github.com/pytube/pytube
 ```
