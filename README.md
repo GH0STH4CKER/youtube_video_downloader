@@ -6,7 +6,7 @@
 $ git clone https://github.com/GH0STH4CKER/youtube_video_downloader.git
 $ cd youtube_video_downloader
 $ python3 youtube_downloader.py
-
+```
 Installing Modules :
 ```
 $ pip install colorama
